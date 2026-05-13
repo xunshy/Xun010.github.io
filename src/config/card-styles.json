@@ -37,8 +37,8 @@
 		"height": 66,
 		"offset": 120,
 		"order": 6,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": 2,
+		"offsetY": 260,
 		"enabled": true
 	},
 	"socialButtons": {
@@ -53,8 +53,8 @@
 		"width": 200,
 		"height": 180,
 		"order": 7,
-		"offsetX": -172,
-		"offsetY": 250,
+		"offsetX": -233,
+		"offsetY": 254,
 		"enabled": true
 	},
 	"articleCard": {
@@ -85,8 +85,8 @@
 		"width": 54,
 		"height": 54,
 		"order": 8,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": 108,
+		"offsetY": 351,
 		"enabled": true
 	},
 	"hatCard": {
