@@ -50,6 +50,13 @@
 			"order": 3
 		},
 		{
+			"id": "juejin",
+			"type": "xiaohongshu",
+			"value": "https://www.xiaohongshu.com/user/profile/67cf290d000000000d00a250",
+			"label": "小红书",
+			"order": 2
+		},
+		{
 			"id": "email",
 			"type": "email",
 			"value": "gallegomaribel567@gmail.com",
