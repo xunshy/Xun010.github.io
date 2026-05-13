@@ -3,8 +3,8 @@
 		"width": 360,
 		"height": 200,
 		"order": 3,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": -180,
+		"offsetY": -358,
 		"enabled": true
 	},
 	"hiCard": {
@@ -53,16 +53,16 @@
 		"width": 200,
 		"height": 180,
 		"order": 7,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": -172,
+		"offsetY": 250,
 		"enabled": true
 	},
 	"articleCard": {
 		"width": 266,
 		"height": 160,
 		"order": 8,
-		"offsetX": 20,
-		"offsetY": null,
+		"offsetX": -521,
+		"offsetY": 167,
 		"enabled": true
 	},
 	"writeButtons": {
