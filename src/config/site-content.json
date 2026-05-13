@@ -62,6 +62,13 @@
 			"value": "gallegomaribel567@gmail.com",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1778672950019",
+			"type": "bilibili",
+			"value": "https://space.bilibili.com/1833410099?spm_id_from=333.33.0.0",
+			"label": "bilibili",
+			"order": 4
 		}
 	],
 	"clockShowSeconds": false,
